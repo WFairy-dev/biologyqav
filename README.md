@@ -1,9 +1,6 @@
 本项目是一个基于 RAG 与 大语言模型 的生物学问答系统，支持本地知识库构建、向量检索、智能问答以及可扩展的模型部署方式。
 系统采用 Xinference 部署嵌入模型与对话模型，实现灵活可复用的问答体系。
 
-
-📦 目前我们正在整理自构建 biological QA 数据集，近期将以开源形式发布，敬请期待！
-
 环境配置
 ```bash
 pip install -r requirements.txt
@@ -32,7 +29,7 @@ pip install -r requirements.txt
 
 python startup.py -a
 
-
+测试数据集可通过链接进行下载：https://doi.org/10.5281/zenodo.17599820
 
 🔗 本系统基于开源项目 Langchain-Chatchat(https://github.com/chatchat-space/Langchain-Chatchat)进行改进与扩展,在此对原作者表示诚挚感谢。
 
