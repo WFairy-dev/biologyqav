@@ -30,7 +30,8 @@ pip install -r requirements.txt
 python startup.py -a
 
 测试数据集可通过链接进行下载：https://doi.org/10.5281/zenodo.17599820
+新添加的数据集：https://doi.org/10.5281/zenodo.18212890
 
-🔗 本系统基于开源项目 Langchain-Chatchat(https://github.com/chatchat-space/Langchain-Chatchat)进行改进与扩展,在此对原作者表示诚挚感谢。
+🔗 本系统基于开源项目 Langchain-Chatchat (https://github.com/chatchat-space/Langchain-Chatchat) 进行改进与扩展,在此对原作者表示诚挚感谢。
 
 
